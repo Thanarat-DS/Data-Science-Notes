@@ -1,2 +1,3 @@
 # Data-Science-Notes
-This is Notes of Data Scientist and Machine Learning Scientist Courses on Datacamp.
+<p>This repository is my personal note that I learned from the data scientist and machine learning scientist courses on Datacamp.</p>
+<p>Table of Contents:</p>
