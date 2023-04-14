@@ -1,6 +1,7 @@
 # Data-Science-Notes
 <p>This repository is my personal note that I learned from the data scientist and machine learning scientist courses on <a href="https://www.datacamp.com/" target="_blank">Datacamp</a>.</p>
 <p>Table of Contents:</p>
-<ul> 
-  <li>Introduction to Deep Learning in Python (Still learning, 30% progress!)</li>
+<ul>
+  <li><a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction%20to%20Deep%20Learning%20in%20Python/notebook.ipynb" target="_blank">Introduction to Deep Learning in Python</a> (Still learning, 30% progress!)</li>
 </ul>
+
