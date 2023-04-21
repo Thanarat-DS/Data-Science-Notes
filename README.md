@@ -11,7 +11,7 @@
     <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-TensorFlow-in-Python/notebook.ipynb" target="_blank">Introduction to TensorFlow in Python</a> (Still learning, 50% progress!) <br>
   </li>
   <li>
-    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-Deep-Learning-in-Python/notebook.ipynb" target="_blank">Supervised Learning with scikit-learn</a> <br>
+    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Supervised-Learning-with-scikit-learn/notebook.ipynb" target="_blank">Supervised Learning with scikit-learn</a>  (Still learning, 20% progress!) <br>
   </li>
   <li>
     Introduction to Deep Learning with Keras (Still learning!)
