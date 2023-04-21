@@ -1,8 +1,6 @@
 # Data-Science-Notes
 <p>This repository is my personal note that I learned from the data scientist and machine learning scientist courses on <a href="https://www.datacamp.com/" target="_blank">Datacamp</a>.</p>
 
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/datacamp.svg" title="Datacamp" alt="Datacamp" width="200" height="200"/>&nbsp;
-
 <p>Table of Contents:</p>
 
 <ul>
