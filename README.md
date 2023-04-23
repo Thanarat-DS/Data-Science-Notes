@@ -23,4 +23,4 @@
   
 </ul>
 
-<!-- (Still learning, 70% progress!) --->
+<!-- (Still learning, 70% progress!) -->
