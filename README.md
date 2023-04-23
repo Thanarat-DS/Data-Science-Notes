@@ -6,7 +6,7 @@
 <ul>
   
   <li>
-    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Supervised-Learning-with-scikit-learn/notebook.ipynb" target="_blank">Supervised Learning with scikit-learn</a>  (Still learning, 50% progress!) <br>
+    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Supervised-Learning-with-scikit-learn/notebook.ipynb" target="_blank">Supervised Learning with scikit-learn</a>  (Still learning, 60% progress!) <br>
   </li>
   
   <li>
