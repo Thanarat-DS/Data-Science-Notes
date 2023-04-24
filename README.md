@@ -10,7 +10,7 @@
   </li>
   
   <li>
-    <a Unsupervised Learning in Python</a> (Still learning!) <br>
+     Unsupervised Learning in Python (Still learning!)
   </li>
 
   <li>
