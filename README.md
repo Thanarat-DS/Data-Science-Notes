@@ -10,7 +10,7 @@
   </li>
   
   <li>
-    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Supervised-Learning-with-scikit-learn/notebook.ipynb" target="_blank">Unsupervised Learning in Python</a> (Still learning!) <br>
+    <a Unsupervised Learning in Python</a> (Still learning!) <br>
   </li>
 
   <li>
