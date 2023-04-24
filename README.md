@@ -10,7 +10,7 @@
   </li>
   
   <li>
-     Unsupervised Learning in Python (Still learning!)
+     Unsupervised Learning in Python (Still learning! 10%)
   </li>
 
   <li>
