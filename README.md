@@ -14,7 +14,7 @@
   </li>
   
   <li>
-    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-TensorFlow-in-Python/notebook.ipynb" target="_blank">Introduction to TensorFlow in Python</a> (Still learning, 90% progress!) <br>
+    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-TensorFlow-in-Python/notebook.ipynb" target="_blank">Introduction to TensorFlow in Python</a><br>
   </li>
   
   <li>
