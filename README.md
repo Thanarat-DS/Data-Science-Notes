@@ -17,6 +17,12 @@
     <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-TensorFlow-in-Python/notebook.ipynb" target="_blank">Introduction to TensorFlow in Python</a><br> <li>
   </li>
   
+  <ul>
+<li>Bullet 1</li>
+<li>Bullet 2</li>
+<li>Bullet 3</li>
+</ul>
+  
   <li>
   Introduction to Natural Language Processing in Python (Still learning! 50% progress!)
   </li>
