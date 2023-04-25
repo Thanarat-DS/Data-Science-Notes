@@ -21,10 +21,10 @@
   Introduction to Natural Language Processing in Python (Still learning! 50% progress!)
   </li>
   <ul>
-    <li>Bullet 1</li>
-    <li>Bullet 2</li>
-    <li>Bullet 3</li>
-    <li>Bullet 3</li>
+    <li>Chapter 1: Regular expressions & word tokenization</li>
+    <li>Chapter 2: Simple topic identification</li>
+    <li>Chapter 1: Named-entity recognition</li>
+    <li>Chapter 1: Building a "fake news" classifier</li>
   </ul>
   
   
