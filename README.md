@@ -18,7 +18,7 @@
   </li>
   
   <li>
-  Introduction to Natural Language Processing in Python
+  Introduction to Natural Language Processing in Python (Still learning! 50% progress!)
   </li>
   
   <li>
