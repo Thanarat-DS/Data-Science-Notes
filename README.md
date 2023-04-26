@@ -65,7 +65,7 @@
 
 <ul>
   <li>
-    Introduction to Deep Learning with Keras (Still learning!)
+    Introduction to Deep Learning with Keras (Still learning! 20% progress!)
   </li>
   <ul>
     <li>Chapter 1: Introducing Keras</li>
