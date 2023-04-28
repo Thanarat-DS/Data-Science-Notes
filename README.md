@@ -62,10 +62,10 @@
     <li>Chapter 4: Discovering Interpretable Features</li>
   </ul>
 </ul>
-https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-Deep-Learning-with-Keras/notebook.ipynb
+
 <ul>
   <li>
-    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-TensorFlow-in-Python/notebook.ipynb" target="_blank">Introduction to Deep Learning with Keras (Still learning! 25% progress!)</a><br>
+    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-Deep-Learning-with-Keras/notebook.ipynb" target="_blank">Introduction to Deep Learning with Keras (Still learning! 25% progress!)</a> <br>
   </li>
   <ul>
     <li>Chapter 1: Introducing Keras</li>
