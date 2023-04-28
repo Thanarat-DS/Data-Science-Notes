@@ -29,6 +29,18 @@
 
 <ul>
   <li>
+    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-Deep-Learning-with-Keras/notebook.ipynb" target="_blank">Introduction to Deep Learning with Keras (Still learning! 25% progress!)</a> <br>
+  </li>
+  <ul>
+    <li>Chapter 1: Introducing Keras</li>
+    <li>Chapter 2: Going Deeper</li>
+    <li>Chapter 3: Improving Model Performance</li>
+    <li>Chapter 4: Advanced Model Architectures</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>
     <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-TensorFlow-in-Python/notebook.ipynb" target="_blank">Introduction to TensorFlow in Python</a><br>
   </li>
   <ul>
@@ -60,18 +72,6 @@
     <li>Chapter 2: Visualization with Hierarchical Clustering and t-SNE</li>
     <li>Chapter 3: Decorrelating Your Data and Dimension Reduction</li>
     <li>Chapter 4: Discovering Interpretable Features</li>
-  </ul>
-</ul>
-
-<ul>
-  <li>
-    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-Deep-Learning-with-Keras/notebook.ipynb" target="_blank">Introduction to Deep Learning with Keras (Still learning! 25% progress!)</a> <br>
-  </li>
-  <ul>
-    <li>Chapter 1: Introducing Keras</li>
-    <li>Chapter 2: Going Deeper</li>
-    <li>Chapter 3: Improving Model Performance</li>
-    <li>Chapter 4: Advanced Model Architectures</li>
   </ul>
 </ul>
 
