@@ -29,7 +29,7 @@
 
 <ul>
   <li>
-    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-Deep-Learning-with-Keras/notebook.ipynb" target="_blank">Introduction to Deep Learning with Keras </a>(Still learning! 70% progress!)<br>
+    <a href="https://github.com/Thanarat-DS/Data-Science-Notes/blob/main/Introduction-to-Deep-Learning-with-Keras/notebook.ipynb" target="_blank">Introduction to Deep Learning with Keras </a><br>
   </li>
   <ul>
     <li>Chapter 1: Introducing Keras</li>
